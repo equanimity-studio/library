@@ -6,6 +6,8 @@ A personal book library where you can add books, mark them read or unread, and r
 
 Built with HTML, CSS and vanilla JavaScript.
 
+> **Note:** All of the code in this repository is my own, written by hand in 2023 without AI assistance. This README was updated in 2026 with help from Claude.
+
 ## Features
 
 - An "Add Book" button opens a pop-up form for title, author, page count and read status
